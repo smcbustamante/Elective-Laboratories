@@ -1,0 +1,4 @@
+Reason for not uploading the PDF File:
+I tried uploading the PDF of my presentation in GitHub. However, it had 27.8MB of storage, which exceeded GitHub's maximum storage for uploading files so I couldn't upload it.
+
+Link to Canva Presentation: https://www.canva.com/design/DAG8su_vPsg/SmiErIa0UnTltaNyaRb7WQ/edit?utm_content=DAG8su_vPsg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
